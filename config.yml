@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "http://blog.arvindgupta.tech/"
 title: Arvind's Blog
 paginate: 5
 theme: PaperMod
