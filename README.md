@@ -1,4 +1,4 @@
-# My Blogging Website
+# Teachy (My Blogging Website)
 
 `link`: https://arvindguptablogs.netlify.app/
 
