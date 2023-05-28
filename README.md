@@ -1,10 +1,10 @@
 # Teachy (My Blogging Website)
 
-`link`: https://arvindguptablogs.netlify.app/
+🔗 `link`: https://arvindguptablogs.netlify.app/
 
 ## Description
 
-This is a blogging website built using Hugo, a fast and flexible static site generator. The website showcases my personal blog posts and articles on various topics.
+This is a ✨blogging website✨ built using Hugo, a ⚡fast⚡ and flexible static site generator. The website showcases my personal 📝blog posts and articles on various topics. 🌟
 
 ## Features
 
@@ -35,7 +35,7 @@ This is a blogging website built using Hugo, a fast and flexible static site gen
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+🙌 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository
 2. Create a new branch: `git checkout -b feature/your-feature`
