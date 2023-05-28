@@ -1,6 +1,6 @@
 # My Blogging Website
 
-link:`https://arvindguptablogs.netlify.app/`
+`link`: https://arvindguptablogs.netlify.app/
 
 ## Description
 
