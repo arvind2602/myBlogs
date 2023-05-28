@@ -1,5 +1,5 @@
 baseURL: "https://arvindguptablogs.netlify.app/"
-title: Arvind's Blog
+title: Teach Updates
 paginate: 5
 theme: PaperMod
 
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Teachy"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -115,11 +115,11 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: github
