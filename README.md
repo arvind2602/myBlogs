@@ -1,6 +1,6 @@
 # My Blogging Website
 
-[![Website](https://example.com)](https://example.com)
+[![Website](https://arvindguptablogs.netlify.app/)](https://arvindguptablogs.netlify.app/)
 
 ## Description
 
@@ -19,7 +19,7 @@ This is a blogging website built using Hugo, a fast and flexible static site gen
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-blog.git`
+1. Clone the repository: `git clone https://github.com/arvind2602/myBlogs.git`
 2. Install Hugo: `brew install hugo` (for macOS) or `sudo apt-get install hugo` (for Ubuntu)
 3. Navigate to the project directory: `cd your-blog`
 4. Start the local development server: `hugo server -D`
@@ -43,7 +43,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a pull request
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
